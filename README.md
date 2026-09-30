@@ -120,3 +120,15 @@ To test all endpoints:
 1. Import the `postman_collection.json` file located in the project root into your Postman application.
 2. The collection has pre-saved example payloads for registration, login, profile queries, location management, weather search, and AI queries.
 3. The registration and login endpoints are set up with test scripts that capture the JWT token and save it to the collection variable `token` automatically. This allows you to call all subsequent private endpoints without manually copying the token.
+
+*/
+## 🔗 Project Submission Links
+
+### 🎥 ApiTest Video / Demo Video
+[Click Here to Watch Video](https://drive.google.com/file/d/17NA4TlmMpvhm-nKyC3ybDwV4a1eMgg2L/view?usp=sharing)
+
+### Demo video
+[click here to watch video](https://drive.google.com/file/d/10In98jov-BPcqsE8WhkIxTt-DIsZ6dry/view?usp=sharing)
+
+### 📄 Document Link
+[Click Here to View Document](https://docs.google.com/document/d/1sNp-vvtgTBq6Z7cZSmGMLgTnwK-vqZnX/edit?usp=sharing&ouid=104065904767734571833&rtpof=true&sd=true)
